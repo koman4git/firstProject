@@ -2,3 +2,11 @@
     width: 1920px;
     margin: 0 auto;
 }
+a{
+    margin-left: 156px;
+    text-decoration: none;
+    font-family: Gilroy-Bold;
+    font-size: 18px;
+    line-height: 22px;
+    color: #828282;
+}
