@@ -2,6 +2,9 @@
     width: 1920px;
     margin: 0 auto;
 }
+header{
+    margin: 0 auto;
+}
 a{
     margin-left: 156px;
     text-decoration: none;
@@ -9,4 +12,28 @@ a{
     font-size: 18px;
     line-height: 22px;
     color: #828282;
+}
+.p-header{
+    display: inline-block;
+    
+}
+.header-name{
+    margin-left: 251px;
+    font-family: Gilroy-Bold;
+    font-size: 47.3392px;
+    line-height: 59px;
+    color: #070707;
+    width: 123px;
+    height: 118px;
+}
+.header-language{
+    margin-right: 247px;
+}
+.header-age{
+    margin: 0 297px 0 350px;
+    font-family: Gilroy-Medium;
+    font-size: 18px;
+    line-height: 22px;
+    color: #070707;
+    
 }
