@@ -6,34 +6,68 @@ header{
     margin: 0 auto;
 }
 a{
-    margin-left: 156px;
     text-decoration: none;
     font-family: Gilroy-Bold;
     font-size: 18px;
     line-height: 22px;
     color: #828282;
 }
+.a-header-menu{
+    margin-left: 156px;
+}
 .p-header{
     display: inline-block;
-    
+}
+.header-menu{
+    margin: 33.05px 252px 31.86px 248px;
+    width: 943px;
+}
+.empty{
+    content: "";
+    height: auto;
+}
+.svg-line{
+    margin: 0 250px 0 253px;
+    border: 1px solid #828282;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+.underHeader{
+    width: 943.61px;
+    display: flex;
+    margin: 0 250.69px 0 250.69px;
 }
 .header-name{
-    margin-left: 251px;
     font-family: Gilroy-Bold;
     font-size: 47.3392px;
     line-height: 59px;
     color: #070707;
     width: 123px;
     height: 118px;
+    margin: 39.69px 0 30.64px 0;
 }
 .header-language{
-    margin-right: 247px;
+    transform: rotate(270deg);
+    width: 75px;
+    height: 20px;
+    font-family: Gilroy-Bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #828282;
+    margin: 69.5px 0 0 0;
 }
 .header-age{
-    margin: 0 297px 0 350px;
+    margin: 94.77px 297px 0 297.5px;
     font-family: Gilroy-Medium;
     font-size: 18px;
     line-height: 22px;
     color: #070707;
-    
+    width: 155px;
+    height: 44px;
+    font-family: Gilroy-Medium;
+    font-size: 18px;
+    line-height: 22px;
+    color: #070707;
+}
+.main-foto{
+    margin: 0 250.69px 0 250.69px;
 }
