@@ -15,6 +15,16 @@ a{
 .a-header-menu{
     margin-left: 156px;
 }
+.a-menu:hover{
+    color: #070707;
+    font-family: Gilroy-Bold;
+    font-size: 18px;
+    line-height: 22px;
+    text-decoration: underline;
+}
+.a-menu:active {
+    color: green;
+}
 .p-header{
     display: inline-block;
 }
