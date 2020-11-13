@@ -23,7 +23,7 @@ a{
     text-decoration: underline;
 }
 .a-menu:active {
-    color: green;
+    color: orangered;
 }
 .p-header{
     display: inline-block;
@@ -64,6 +64,16 @@ a{
     line-height: 20px;
     color: #828282;
     margin: 69.5px 0 0 0;
+}
+.a-header-language:hover {
+    color: #070707;
+    font-family: Gilroy-Bold;
+    font-size: 18px;
+    line-height: 22px;
+    text-decoration: underline;
+}
+.a-header-language:active {
+    color: red;
 }
 .header-age{
     margin: 94.77px 297px 0 297.5px;
